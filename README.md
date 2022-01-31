@@ -1,26 +1,24 @@
 <p align="center">
-  <a href="https://xingye.me/game/eatkano"><img src="https://github.com/arcxingye/EatKano/blob/main/static/image/ClickBefore.png?raw=true" width="100" height="100" alt="EatKano"></a>
+  <a href="https://github.com/gytxtx/eatyamiupdate/edit/main/README.md"><img src="https://github.com/gytxtx/eatyamiupdate/blob/main/static/image/ClickBefore.png?raw=true" width="100" height="100" alt="Eatyamiupdate"></a>
 </p>
 <div align="center">
 
-# EatKano
+# Eatyamiupdate
 
-_🦌 网页小游戏 🥛_
+网页小游戏
 
 </div>
 
 
 ## 简介
 
-小游戏：吃掉小鹿乃
+小游戏：吃掉小雅米
 
-[鹿乃b站](https://space.bilibili.com/316381099)
+[Y雅米M b站](https://space.bilibili.com/316381099)
 |
-[线上版本](https://xingye.me/game/eatkano/index.php)
-|
-[Github Pages](https://arcxingye.github.io/EatKano/index.html)
+[Github Pages](https://gytxtx.github.io/Eatyamiupdate/index.html)
 
-## 可选功能
+## 功能
 
 简易排行榜(日/周/月) 不推荐使用
 
